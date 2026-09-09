@@ -2,4 +2,4 @@
 NEB701Portfolio
 
 
-<a href="https://github.com/awlelelealelas/NEB701Portfolio/aboutme.html"> My portfolio </a>
+<a href="https://awlelelealelas.github.io/NEB701Portfolio/aboutme.html"> My portfolio </a>
